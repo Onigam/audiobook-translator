@@ -1,0 +1,21 @@
+{
+  "title": "Obviously Awesome (Complete Book Summary)",
+  "author": "April Dunford",
+  "source_url": "https://www.youtube.com/watch?v=Sxg3HbigrrE",
+  "source_duration_sec": 4398,
+  "voice": "Laurent Baffie",
+  "voice_profile_id": "6437fe5f-b87c-4e79-8724-27049c4c3910",
+  "tts_model": "qwen-tts-1.7B",
+  "whisper_model": "small",
+  "en_segments": 890,
+  "en_words": 12378,
+  "fr_chunks": 885,
+  "fr_words": 14685,
+  "fr_audio_duration_sec": 5349,
+  "failed_chunks": 0,
+  "outputs": {
+    "audio": "ObviouslyAwesome_FR_LaurentBaffie.mp3",
+    "fr_text": "ObviouslyAwesome_FR_texte.txt",
+    "en_transcript": "ObviouslyAwesome_EN_transcript.txt"
+  }
+}
