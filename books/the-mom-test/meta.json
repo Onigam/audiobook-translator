@@ -1,0 +1,21 @@
+{
+  "title": "The Mom Test",
+  "author": "Rob Fitzpatrick",
+  "source_url": "https://www.youtube.com/watch?v=75tfi1OUlDg",
+  "source_duration_sec": 12222,
+  "voice": "Laurent Baffie",
+  "voice_profile_id": "6437fe5f-b87c-4e79-8724-27049c4c3910",
+  "tts_model": "qwen-tts-1.7B",
+  "whisper_model": "small",
+  "en_segments": 1912,
+  "en_words": 30425,
+  "fr_chunks": 1635,
+  "fr_words": 34183,
+  "fr_audio_duration_sec": 10915,
+  "failed_chunks": 0,
+  "outputs": {
+    "audio": "MomTest_FR_LaurentBaffie.mp3",
+    "fr_text": "MomTest_FR_texte.txt",
+    "en_transcript": "MomTest_EN_transcript.txt"
+  }
+}

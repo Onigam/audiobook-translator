@@ -1,0 +1,14 @@
+# Heavy / re-generatable artifacts — never commit
+work/
+*.wav
+# Source audio (re-downloadable from YouTube; URLs in each book's meta.json)
+sources/
+*_source.mp3
+
+# Keep final deliverables (FR mp3 < 100MB, transcripts) — see books/*/
+!books/**/*.mp3
+
+# OS / tooling
+.DS_Store
+__pycache__/
+*.pyc
